@@ -31,3 +31,8 @@ That said, there are clear limitations to be addressed. First, correlation does 
 The winter result — that circulation matters more than local radiation — aligns with literature, but it would be more convincing if supplemented with direct circulation indices (for example, NAO, blocking frequency, or composite maps of wind anomalies). Also, the choice of extreme threshold (seasonal 95%) affects sample size and composition; performing sensitivity checks with alternative thresholds would test how robust our conclusions are.
 
 From a presentation standpoint, add sample sizes and significance markers to the key plots so the audience can quickly assess robustness. In short, this project is solid and well-motivated. With a few focused additions — causal framing, collinearity diagnostics, sensitivity analyses, and direct circulation metrics — the work will move from a strong descriptive study toward a more explanatory and policy-relevant contribution.
+
+fenton 
+
+Our team worked well together with clear task division and smooth communication throughout the project. We analysed seasonal patterns of extreme temperatures and identified different climatic drivers across seasons. This project improved my understanding of data analysis and collaborative research. However, the definition of extreme temperature and research focus could have been more rigorous. In future projects, I would plan the research path more carefully and strengthen methodological justification.
+
